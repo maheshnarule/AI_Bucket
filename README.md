@@ -62,7 +62,7 @@ AI_Bucket/
 
 │── templates/             # HTML templates (index, dashboard, etc.)                 
 │── requirements.txt       # Dependencies  
-│── user.db                # Database for user data
+│── user.py                # For creating Database for user data
 
 │── README.md              # Project Documentation  
 
