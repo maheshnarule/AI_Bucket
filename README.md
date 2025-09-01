@@ -96,3 +96,7 @@ Support multi-face and multi-hand tracking simultaneously.
 
 Deploy on cloud (Heroku / AWS).
 
+Author
+
+GitHub: @maheshnarule
+
