@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Species Detection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        form {
+            margin-bottom: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin: 10px;
+            border-radius: 6px;
+            border: none;
+            cursor: pointer;
+        }
+        .btn-green {
+            background-color: #28a745;
+            color: white;
+        }
+        .btn-blue {
+            background-color: #007bff;
+            color: white;
+        }
+        .prediction {
+            margin: 15px;
+            font-size: 18px;
+            color: #333;
+        }
+        img {
+            border: 2px solid #ccc;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Species Detection</h1>
+
+    <!-- File Upload Form -->
+    <form action="/species" method="POST" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <button type="submit" class="btn-green">Upload & Predict</button>
+    </form>
+
+    <!-- Prediction Result -->
+    {% if prediction %}
+        <div class="prediction">{{ prediction|safe }}</div>
+    {% endif %}
+
+    <h2>Live Species Detection</h2>
+    <img src="{{ url_for('video_feed_species') }}" width="640" height="480">
+
+    <br><br>
+    <!-- <a href="/"><button class="btn-blue">Back to Home</button></a> -->
+</body>
+</html>
+
