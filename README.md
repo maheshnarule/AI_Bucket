@@ -1,9 +1,9 @@
-🧠 AI Bucket – Multi-Task Detection Project
+**🧠 AI Bucket – Multi-Task Detection Project**
 
 This project is an AI-powered web application built using Flask, OpenCV, and Deep Learning models.
 It combines multiple computer vision and machine learning tasks into one platform.
 
-🚀 Features
+**🚀 Features**
 
 ✅ Age & Gender Detection
 
@@ -29,7 +29,7 @@ Image upload system to classify object species (Dog, pen, water Bottle etc.).
 
 Uses deep learning .h5 model for classification.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Frontend: HTML, CSS
 
@@ -39,7 +39,7 @@ Computer Vision: OpenCV
 
 Deep Learning: TensorFlow / Keras, DeepFace, MediaPipe
 
-Models Used:
+**Models Used:**
 
 Age & Gender Detection Model (.h5)
 
@@ -69,28 +69,28 @@ AI_Bucket/
 Use Python Version 3.10 for this Project in your system
 ⚡ Installation & Setup
 
-Clone the repository:
+**Clone the repository:**
 
 git clone https://github.com/maheshnarule/AI_Bucket.git
 cd AI_Bucket
 
 
-Install dependencies:
+**Install dependencies:**
 
 pip install -r requirements.txt
 
 
-Run the application:
+**Run the application:**
 
 python app.py
 
 
-Open in browser:
+**Open in browser:**
 
 http://127.0.0.1:5000/
 
 
-🔮 Future Enhancements
+**🔮 Future Enhancements**
 
 Improve FPS with lightweight models.
 
