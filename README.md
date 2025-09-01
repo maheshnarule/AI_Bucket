@@ -51,15 +51,19 @@ Species Classification Model
 
 📂 Project Structure
 AI_Bucket/
+
 │── app.py                 # Main Flask app  
 │── age_gender.py          # Age & Gender Detection routes  
 │── emotion.py             # Emotion Recognition routes  
 │── hand_gesture.py        # Hand Gesture Detection routes  
 │── species.py             # Species Classification routes 
+
 │── camera.py              # Global Camera 
+
 │── templates/             # HTML templates (index, dashboard, etc.)                 
 │── requirements.txt       # Dependencies  
 │── user.db                # Database for user data
+
 │── README.md              # Project Documentation  
 
 Use Python Version 3.10 for this Project in your system
@@ -95,8 +99,4 @@ Add more species for classification.
 Support multi-face and multi-hand tracking simultaneously.
 
 Deploy on cloud (Heroku / AWS).
-
-Author
-
-GitHub: @maheshnarule
 
