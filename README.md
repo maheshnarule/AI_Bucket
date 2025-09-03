@@ -11,6 +11,7 @@
 <img width="1905" height="930" alt="image" src="https://github.com/user-attachments/assets/7748adb5-5ef9-445a-97fc-40825d1ee151" />
 <img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/4953ccb4-f4da-45f1-a166-6281b6bffc90" />
 <img width="1920" height="905" alt="image" src="https://github.com/user-attachments/assets/94acc0f9-73de-462f-a115-a840777e7e69" />
+Admin can see the User Data
 <img width="1900" height="906" alt="image" src="https://github.com/user-attachments/assets/1a3e8e88-3bde-41bf-9fe1-7b4c47a627b8" />
 
 
