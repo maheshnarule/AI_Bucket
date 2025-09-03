@@ -1,3 +1,20 @@
+
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/345dd290-4f53-4021-aba7-61cb31b563d9" />
+<img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/0551f29d-d6ef-48d9-9da5-b9834b8d55fa" />
+<img width="1901" height="915" alt="image" src="https://github.com/user-attachments/assets/c7e8c3eb-fce1-4bfa-978f-5643b8df3b14" />
+<img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/2e5817f3-a858-473e-a464-df3bae00a5a5" />
+<img width="1910" height="896" alt="image" src="https://github.com/user-attachments/assets/2c581cac-3f7e-4b6c-ae35-c4248e54d52d" />
+<img width="1858" height="1231" alt="image" src="https://github.com/user-attachments/assets/8f808e47-fe5f-45ef-b814-efb9f7be22ab" />
+<img width="1918" height="873" alt="image" src="https://github.com/user-attachments/assets/b585bd2d-ecb7-4d11-981c-835c47cec50f" />
+<img width="1920" height="894" alt="image" src="https://github.com/user-attachments/assets/0594afef-fec6-475a-9720-b9116e9d736f" />
+<img width="1918" height="884" alt="image" src="https://github.com/user-attachments/assets/1cf03cff-acda-49bf-8625-73fc60b7ef2f" />
+<img width="1905" height="930" alt="image" src="https://github.com/user-attachments/assets/7748adb5-5ef9-445a-97fc-40825d1ee151" />
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/4953ccb4-f4da-45f1-a166-6281b6bffc90" />
+<img width="1920" height="905" alt="image" src="https://github.com/user-attachments/assets/94acc0f9-73de-462f-a115-a840777e7e69" />
+<img width="1900" height="906" alt="image" src="https://github.com/user-attachments/assets/1a3e8e88-3bde-41bf-9fe1-7b4c47a627b8" />
+
+
+
 **🧠 AI Bucket – Multi-Task Detection Project**
 
 This project is an AI-powered web application built using Flask, OpenCV, and Deep Learning models.
